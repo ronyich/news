@@ -15,14 +15,17 @@ DNS 紀錄更新約 30 秒後即可正常使用網域\
 官方版本已順利結束 ( 07/06 - 08/29 )\
 模組版本是否要揪全公司參與？
 
-```markdown
 ## Mod 安裝 (上機實作)
-
+```markdown
 1. Steam 安裝 tModLoader
+
 2. 下載模組
+
 3. 開啟 tModLoader 打開 Mod 資料夾
+
 4. 將模組放入資料夾後 reload
 
+5. 測試伺服器連線
 ```
 ## Server 相關資訊
 Steam [tModLoader](https://store.steampowered.com/app/1281930/tModLoader)\
@@ -30,4 +33,4 @@ Steam [tModLoader](https://store.steampowered.com/app/1281930/tModLoader)\
 IP：ronyi.asuscomm.com\
 Port：7788
 
-`特別感謝：Vin神協助架設伺服器`
+`特別感謝：Vincent 協助架設伺服器`
