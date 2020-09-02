@@ -1,3 +1,25 @@
+## 新知分享
+
+## GitHub Tip: [watching releases](https://www.jessesquires.com/blog/2020/07/30/github-tip-watching-releases/)
+GitHub 最近多了一個 watch releases only 的功能。也就是說可以訂閱 repo 的 release通知，把專案有在用的 SDK、套件都開啟了這個通知，輕鬆追蹤。
+
+## 交通大學 NCTU Domain ( YC 推薦 )
+官網： https://nctu.me\
+教學：[NCTU Domain免費網域申請教學](https://medium.com/@NorthBei/nctu-domain免費網域申請教學-b629fdaaad90)
+
+## Terraria 活動
+官方版本已順利結束 ( 07/06 - 08/29)\
+模組版本是否要揪全公司參與？
+
+```markdown
+### Mod 安裝 (上機實作)
+
+Steam 安裝 [tModLoader](https://store.steampowered.com/app/1281930/tModLoader/)
+下載模組 [Mods](https://drive.google.com/file/d/1unTTHDlmSkrhYZ_uGOw9YIXgdGi0ukzL/view?usp=sharing)
+
+
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ronyich/news/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
